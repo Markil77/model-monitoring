@@ -11,6 +11,7 @@ from config import get_default_config
 from dashboard import create_dashboard
 from data_generator import generate_transactions, get_daily_summary
 from email_alerts import send_alert_email, should_send_alert
+from retraining_predictor import predict_retraining, format_prediction_report
 from simulator import metrics_to_dataframe, run_simulation
 
 
@@ -101,6 +102,11 @@ def main() -> int:
 
     if summary["affected_days"]:
         print(f"\nAffected days: {summary['affected_days'][:10]}...")
+
+    # Predict retraining needs
+    print_header("Retraining Prediction (Linear Regression Forecast)")
+    prediction = predict_retraining(daily_metrics, config.thresholds)
+    print(format_prediction_report(prediction))
 
     # Save alerts
     try:
