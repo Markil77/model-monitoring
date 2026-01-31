@@ -1,0 +1,429 @@
+{
+  "generated_at": "2026-01-31T15:39:02.669419",
+  "total_alerts": 47,
+  "alerts": [
+    {
+      "day": 1,
+      "metric_name": "precision",
+      "value": 0.7273,
+      "threshold": 0.85,
+      "severity": "warning",
+      "message": "Precision (72.73%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668088"
+    },
+    {
+      "day": 5,
+      "metric_name": "precision",
+      "value": 0.8333,
+      "threshold": 0.85,
+      "severity": "warning",
+      "message": "Precision (83.33%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668105"
+    },
+    {
+      "day": 9,
+      "metric_name": "precision",
+      "value": 0.75,
+      "threshold": 0.85,
+      "severity": "warning",
+      "message": "Precision (75.00%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668110"
+    },
+    {
+      "day": 11,
+      "metric_name": "precision",
+      "value": 0.8,
+      "threshold": 0.85,
+      "severity": "warning",
+      "message": "Precision (80.00%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668114"
+    },
+    {
+      "day": 12,
+      "metric_name": "precision",
+      "value": 0.6667,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (66.67%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668118"
+    },
+    {
+      "day": 13,
+      "metric_name": "precision",
+      "value": 0.5714,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (57.14%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668121"
+    },
+    {
+      "day": 13,
+      "metric_name": "f1",
+      "value": 0.6667,
+      "threshold": 0.75,
+      "severity": "warning",
+      "message": "F1 Score (66.67%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668124"
+    },
+    {
+      "day": 14,
+      "metric_name": "precision",
+      "value": 0.8182,
+      "threshold": 0.85,
+      "severity": "warning",
+      "message": "Precision (81.82%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668128"
+    },
+    {
+      "day": 15,
+      "metric_name": "precision",
+      "value": 0.7647,
+      "threshold": 0.85,
+      "severity": "warning",
+      "message": "Precision (76.47%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668131"
+    },
+    {
+      "day": 16,
+      "metric_name": "precision",
+      "value": 0.5,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (50.00%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668134"
+    },
+    {
+      "day": 16,
+      "metric_name": "f1",
+      "value": 0.6316,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (63.16%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668137"
+    },
+    {
+      "day": 17,
+      "metric_name": "precision",
+      "value": 0.5,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (50.00%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668140"
+    },
+    {
+      "day": 17,
+      "metric_name": "f1",
+      "value": 0.625,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (62.50%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668143"
+    },
+    {
+      "day": 18,
+      "metric_name": "precision",
+      "value": 0.3125,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (31.25%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668145"
+    },
+    {
+      "day": 18,
+      "metric_name": "f1",
+      "value": 0.4545,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (45.45%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668148"
+    },
+    {
+      "day": 19,
+      "metric_name": "precision",
+      "value": 0.5,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (50.00%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668151"
+    },
+    {
+      "day": 19,
+      "metric_name": "f1",
+      "value": 0.6087,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (60.87%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668154"
+    },
+    {
+      "day": 20,
+      "metric_name": "precision",
+      "value": 0.5263,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (52.63%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668157"
+    },
+    {
+      "day": 20,
+      "metric_name": "f1",
+      "value": 0.6667,
+      "threshold": 0.75,
+      "severity": "warning",
+      "message": "F1 Score (66.67%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668160"
+    },
+    {
+      "day": 21,
+      "metric_name": "precision",
+      "value": 0.2727,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (27.27%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668163"
+    },
+    {
+      "day": 21,
+      "metric_name": "f1",
+      "value": 0.4,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (40.00%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668166"
+    },
+    {
+      "day": 22,
+      "metric_name": "precision",
+      "value": 0.2941,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (29.41%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668169"
+    },
+    {
+      "day": 22,
+      "metric_name": "recall",
+      "value": 0.5556,
+      "threshold": 0.7,
+      "severity": "critical",
+      "message": "Recall (55.56%) is below threshold (70.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668172"
+    },
+    {
+      "day": 22,
+      "metric_name": "f1",
+      "value": 0.3846,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (38.46%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668174"
+    },
+    {
+      "day": 23,
+      "metric_name": "precision",
+      "value": 0.0526,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (5.26%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668177"
+    },
+    {
+      "day": 23,
+      "metric_name": "recall",
+      "value": 0.3333,
+      "threshold": 0.7,
+      "severity": "critical",
+      "message": "Recall (33.33%) is below threshold (70.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668180"
+    },
+    {
+      "day": 23,
+      "metric_name": "f1",
+      "value": 0.0909,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (9.09%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668183"
+    },
+    {
+      "day": 24,
+      "metric_name": "precision",
+      "value": 0.2632,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (26.32%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668186"
+    },
+    {
+      "day": 24,
+      "metric_name": "f1",
+      "value": 0.4167,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (41.67%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668189"
+    },
+    {
+      "day": 25,
+      "metric_name": "precision",
+      "value": 0.1429,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (14.29%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668192"
+    },
+    {
+      "day": 25,
+      "metric_name": "recall",
+      "value": 0.5,
+      "threshold": 0.7,
+      "severity": "critical",
+      "message": "Recall (50.00%) is below threshold (70.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668194"
+    },
+    {
+      "day": 25,
+      "metric_name": "f1",
+      "value": 0.2222,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (22.22%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668197"
+    },
+    {
+      "day": 26,
+      "metric_name": "precision",
+      "value": 0.0417,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (4.17%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668200"
+    },
+    {
+      "day": 26,
+      "metric_name": "recall",
+      "value": 0.5,
+      "threshold": 0.7,
+      "severity": "critical",
+      "message": "Recall (50.00%) is below threshold (70.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668203"
+    },
+    {
+      "day": 26,
+      "metric_name": "f1",
+      "value": 0.0769,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (7.69%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668205"
+    },
+    {
+      "day": 27,
+      "metric_name": "precision",
+      "value": 0.125,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (12.50%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668208"
+    },
+    {
+      "day": 27,
+      "metric_name": "recall",
+      "value": 0.6667,
+      "threshold": 0.7,
+      "severity": "warning",
+      "message": "Recall (66.67%) is below threshold (70.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668211"
+    },
+    {
+      "day": 27,
+      "metric_name": "f1",
+      "value": 0.2105,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (21.05%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668214"
+    },
+    {
+      "day": 28,
+      "metric_name": "precision",
+      "value": 0.125,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (12.50%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668217"
+    },
+    {
+      "day": 28,
+      "metric_name": "recall",
+      "value": 0.6667,
+      "threshold": 0.7,
+      "severity": "warning",
+      "message": "Recall (66.67%) is below threshold (70.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668220"
+    },
+    {
+      "day": 28,
+      "metric_name": "f1",
+      "value": 0.2105,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (21.05%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668222"
+    },
+    {
+      "day": 29,
+      "metric_name": "precision",
+      "value": 0.1628,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (16.28%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668225"
+    },
+    {
+      "day": 29,
+      "metric_name": "f1",
+      "value": 0.2692,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (26.92%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668228"
+    },
+    {
+      "day": 29,
+      "metric_name": "fpr",
+      "value": 0.1111,
+      "threshold": 0.1,
+      "severity": "warning",
+      "message": "False Positive Rate (11.11%) exceeds threshold (10.00%). Model is flagging too many legitimate transactions as fraud.",
+      "timestamp": "2026-01-31T15:39:02.668231"
+    },
+    {
+      "day": 30,
+      "metric_name": "precision",
+      "value": 0.1471,
+      "threshold": 0.85,
+      "severity": "critical",
+      "message": "Precision (14.71%) is below threshold (85.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668234"
+    },
+    {
+      "day": 30,
+      "metric_name": "recall",
+      "value": 0.5556,
+      "threshold": 0.7,
+      "severity": "critical",
+      "message": "Recall (55.56%) is below threshold (70.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668237"
+    },
+    {
+      "day": 30,
+      "metric_name": "f1",
+      "value": 0.2326,
+      "threshold": 0.75,
+      "severity": "critical",
+      "message": "F1 Score (23.26%) is below threshold (75.00%). Model performance has degraded and requires investigation.",
+      "timestamp": "2026-01-31T15:39:02.668240"
+    }
+  ]
+}
